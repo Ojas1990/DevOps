@@ -8,9 +8,9 @@
         <processArchive name="Process Archive">
             <resourceType>process.archive.resource</resourceType>
             <authorProperty>root</authorProperty>
-            <processProperty>/Process Definition.process</processProperty>
+            <processProperty>/http.process</processProperty>
         </processArchive>
-        <versionProperty>2</versionProperty>
+        <versionProperty>3</versionProperty>
         <authorProperty>root</authorProperty>
         <addServiceSettableGvars>true</addServiceSettableGvars>
         <name>Test1</name>
